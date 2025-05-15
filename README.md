@@ -65,13 +65,13 @@ Python, Pandas, Scikit-learn, LabelEncoder, RandomForestClassifier
 
 ---
 
-##🚀 Running the Project
+## 🚀 Running the Project
 git clone https://github.com/ruthikan/cuisine_classification_project<br>
 python MainCode.py<br>
 
 ---
 
-##📝 Author
+## 📝 Author
 Ruthika Nalajala<br>
 Intern at Cognifyz Technologies<br>
 LinkedIn: https://www.linkedin.com/in/ruthika-nalajala-73127628b/<br>
